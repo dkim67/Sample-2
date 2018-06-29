@@ -11,6 +11,9 @@ body, html {
     background-color: rgb(45, 43, 43);
     border-bottom-style: outset;
     border-bottom-width: 5px;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
    
 }
 
